@@ -1,4 +1,5 @@
 PlayStore: https://play.google.com/store/apps/details?id=com.eolabs.pharmacy.locator
+
 AppStore: https://apps.apple.com/tr/app/n%C3%B6bet%C3%A7i-eczaneler-a%C3%A7%C4%B1k-eczane/id6757722865
 
 <img width="760" height="500" alt="Yeni Proje (12)" src="https://github.com/user-attachments/assets/59f4bb8b-3962-4c22-bfd7-ea33298b73ca" />
